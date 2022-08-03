@@ -21,4 +21,4 @@
 ---
 
 <br>[Course Link](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/)
-<br>[Preview Certificate](01-Linkedin-Learning/-01-Programming-Foundation-Fundamentals/CertificateOfCompletion_Programming Foundations Fundamentals.pdf)
+<br>[Preview Certificate](https://github.com/ZiadNouh/Kalbonyan-Elmarsos/blob/49860d749bab27d8fa5a40133e5addfe36725af3/01-Linkedin-Learning/-01-Programming-Foundation-Fundamentals/CertificateOfCompletion_Programming%20Foundations%20Fundamentals.pdf)
